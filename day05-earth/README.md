@@ -25,3 +25,9 @@ Add your map to the `images/` folder!
 ### איתן וייס שינברג
 ![](images/Eithan_Weiss_Schonberg.png)
 [קישור](https://x.com/EithanSchon/status/1985965255865115077)
+### עדו קליין
+![](images/ido_klein.png)
+[קישור](https://x.com/idoklein1/status/1986059913458577640)
+### שלי אלבז
+![](images/shellye.jpg)
+[קישור](https://x.com/ShellyElbazZ/status/1985589298113007993)
