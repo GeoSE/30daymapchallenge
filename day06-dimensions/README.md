@@ -22,3 +22,7 @@ Go beyond 2D - think 3D, depth, time, or experimental approaches
 הוסיפו את המפה שלכם לתיקיית `images/`!
 
 Add your map to the `images/` folder!
+
+### שלי אלבז
+![](images/ShellyElbaz.png)
+[קישור](https://x.com/ShellyElbazZ/status/1986303571910959294)
