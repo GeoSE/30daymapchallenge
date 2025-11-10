@@ -31,3 +31,6 @@ Add your map to the `images/` folder!
 ### שלי אלבז
 ![](images/shellye.jpg)
 [קישור](https://x.com/ShellyElbazZ/status/1985589298113007993)
+### שיר פוקס
+קימוטים גיאולוגיים בישראל 🌍⛏️
+![](images/shir_f.jpeg)

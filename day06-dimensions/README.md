@@ -26,3 +26,8 @@ Add your map to the `images/` folder!
 ### שלי אלבז
 ![](images/ShellyElbaz.png)
 [קישור](https://x.com/ShellyElbazZ/status/1986303571910959294)
+### איתן וייס שינברג
+[קישור](https://x.com/EithanSchon/status/1986298405404938720)
+### עדו קליין
+![](images/ido_klein.jpeg)
+[קישור](https://x.com/idoklein1/status/1986523647448653876)

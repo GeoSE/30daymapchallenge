@@ -22,3 +22,12 @@ Map how people/things get around - travel time, inclusive design, or accessibili
 הוסיפו את המפה שלכם לתיקיית `images/`!
 
 Add your map to the `images/` folder!
+### איתן וייס שינברג
+![](images/Eithan_Weiss_Schonberg.jpg)
+[קישור](https://x.com/EithanSchon/status/1986774050723528792)
+### עדו קליין
+![](images/ido_klein.jpeg)
+[קישור](https://x.com/idoklein1/status/1986706497800446343)
+### שלי אלבז
+![](images/ShellyElbaz.jpeg)
+[קישור](https://x.com/ShellyElbazZ/status/1986712874979360946)
