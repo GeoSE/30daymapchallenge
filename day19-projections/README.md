@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 19: השלכות (יום ה-GIS) | Day 19: Projections (GIS Day)
 
 ## נושא | Theme

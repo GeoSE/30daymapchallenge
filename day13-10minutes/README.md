@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 13: מפה ב-10 דקות | Day 13: 10 Minute Map
 
 ## נושא | Theme

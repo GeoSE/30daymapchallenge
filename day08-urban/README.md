@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 8: עירוני (יום העיור העולמי) | Day 8: Urban (World Urbanism Day)
 
 ## נושא | Theme

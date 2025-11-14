@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 15: אש (יסודות קלאסיים 3/4) | Day 15: Fire (Classical Elements 3/4)
 
 ## נושא | Theme

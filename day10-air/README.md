@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 10: אוויר (יסודות קלאסיים 2/4) | Day 10: Air (Classical Elements 2/4)
 
 ## נושא | Theme

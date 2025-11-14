@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 29: רסטר | Day 29: Raster
 
 ## נושא | Theme

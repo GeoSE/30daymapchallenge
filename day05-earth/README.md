@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 5: אדמה (יסודות קלאסיים ¼) | Day 5: Earth (Classical Elements ¼)
 
 ## נושא | Theme

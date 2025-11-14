@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 2: קווים | Day 2: Lines
 
 ## נושא | Theme

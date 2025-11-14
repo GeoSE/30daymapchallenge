@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 1: נקודות | Day 1: Points
 
 ## נושא | Theme

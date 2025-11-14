@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 30: שיפוץ | Day 30: Makeover
 
 ## נושא | Theme

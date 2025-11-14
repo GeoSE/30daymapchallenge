@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 14: אתגר נתונים - OpenStreetMap | Day 14: Data Challenge: OpenStreetMap
 
 ## נושא | Theme

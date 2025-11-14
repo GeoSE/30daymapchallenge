@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 4: אתגר נתונים - הנתונים שלי | Day 4: Data Challenge: My Data
 
 ## נושא | Theme

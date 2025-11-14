@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 28: שחור (יום השישי השחור) | Day 28: Black (Black Friday)
 
 ## נושא | Theme

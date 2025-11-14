@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 6: ממדים | Day 6: Dimensions
 
 ## נושא | Theme

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 9: אנלוגי | Day 9: Analog
 
 ## נושא | Theme

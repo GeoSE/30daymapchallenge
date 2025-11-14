@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 22: אתגר נתונים - Natural Earth | Day 22: Data Challenge: Natural Earth
 
 ## נושא | Theme

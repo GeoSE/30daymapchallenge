@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 16: תא | Day 16: Cell
 
 ## נושא | Theme

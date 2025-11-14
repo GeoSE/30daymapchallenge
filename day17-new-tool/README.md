@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 17: כלי חדש | Day 17: A New Tool
 
 ## נושא | Theme

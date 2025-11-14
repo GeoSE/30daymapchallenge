@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 3: פוליגונים | Day 3: Polygons
 
 ## נושא | Theme

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 7: נגישות | Day 7: Accessibility
 
 ## נושא | Theme
