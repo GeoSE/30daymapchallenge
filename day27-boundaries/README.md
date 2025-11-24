@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 27: גבולות | Day 27: Boundaries
 
 ## נושא | Theme

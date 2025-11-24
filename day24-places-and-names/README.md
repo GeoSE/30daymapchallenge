@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 24: מקומות ושמותיהם | Day 24: Places and Their Names
 
 ## נושא | Theme

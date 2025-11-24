@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 25: משושים | Day 25: Hexagons
 
 ## נושא | Theme

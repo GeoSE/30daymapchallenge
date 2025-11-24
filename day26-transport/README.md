@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 26: תחבורה (יום התחבורה הבת-קיימא העולמי) | Day 26: Transport (World Sustainable Transport Day)
 
 ## נושא | Theme

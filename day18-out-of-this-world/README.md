@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 18: מחוץ לעולם הזה | Day 18: Out of This World
 
 ## נושא | Theme

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 9: אנלוגי | Day 9: Analog
 
 ## נושא | Theme
@@ -22,3 +24,9 @@ Create maps using traditional methods - hand drawn, painted, etc.
 הוסיפו את המפה שלכם לתיקיית `images/`!
 
 Add your map to the `images/` folder!
+### שלי אלבז
+![](images/ShellyElbaz.jpg)
+[קישור](https://x.com/ShellyElbazZ/status/1987436450938225052)
+### עדו קליין
+![](images/ido_klein.jpeg)
+[קישור](https://x.com/idoklein1/status/1987409495828382053)

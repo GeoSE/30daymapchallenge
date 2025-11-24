@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="rtl.css">
+
 # אתגר 30 יום של מפות 2025 | 30 Day Map Challenge 2025
 
 🗺️ **ברוכים הבאים לאתגר המיפוי היומי של נובמבר!**

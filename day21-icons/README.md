@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 21: אייקונים | Day 21: Icons
 
 ## נושא | Theme

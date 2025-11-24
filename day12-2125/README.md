@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 12: מפה משנת 2125 | Day 12: Map from 2125
 
 ## נושא | Theme

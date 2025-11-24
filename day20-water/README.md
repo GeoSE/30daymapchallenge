@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 20: מים (יסודות קלאסיים 4/4) | Day 20: Water (Classical Elements 4/4)
 
 ## נושא | Theme

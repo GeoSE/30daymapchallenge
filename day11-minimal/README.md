@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 11: מפה מינימליסטית | Day 11: Minimal Map
 
 ## נושא | Theme

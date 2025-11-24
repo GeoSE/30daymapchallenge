@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../rtl.css">
+
 # יום 23: תהליך | Day 23: Process
 
 ## נושא | Theme
